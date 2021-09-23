@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm an Android engineer you might know from writing two open-source libraries, [Graywater](https://github.com/tumblr/Graywater) and [Backboard](https://github.com/tumblr/Backboard). I'm currently focusing on 📷 [photography](https://ericleong.me/photos/), but I'd love to help out with open-source projects!
+I'm an Android engineer you might know from writing two open-source libraries, [Graywater](https://github.com/tumblr/Graywater) and [Backboard](https://github.com/tumblr/Backboard). You can check out my talks at my [website](https://ericleong.me).
 
 <!--
 **ericleong/ericleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
